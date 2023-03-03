@@ -19,7 +19,7 @@
             </ows-context:Server>
         </ows-context:Layer>
         <ows-context:Layer 
-			name="{type=wmts,name=Actueel_ortho25}" hidden="false" opacity="1" group="Background layers">
+			name="{type=wmts,name='Luchtfoto Actueel Ortho 8cm RGB'}" hidden="false" opacity="1" group="Background layers">
 			<ows:Title>Luchtfoto</ows:Title>
 			<ows-context:Server service="urn:ogc:serviceType:WMS">
 				<ows-context:OnlineResource 
